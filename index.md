@@ -4,3 +4,5 @@
 #### 見出し4
 ##### 見出し5
 ###### 見出し6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
